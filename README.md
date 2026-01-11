@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/fusion-360">  
+<a href="https://tubus-jubus-apps.github.io/.github/fusion-360">  
 <img src="https://img.shields.io/badge/💻_GET_Fusion_360-blue?style=for-the-badge&logo=apple" alt="GET Fusion 360">  
 </a>  
 </div>
